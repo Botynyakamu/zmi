@@ -12,14 +12,14 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: '🌎 OFFICIAL GROUP ',
+                        displayText: '🌎 OFFICIAL GROUP',
                         url: sgc
                     }
                 },
                 {
-                    callButton: {
-                        displayText: '📞 Add me',
-                        phoneNumber: nomorown
+                    urlButton: {
+                        displayText: '💌 Istagram Owner',
+                        url: webm
                     }
                 },
                 {
