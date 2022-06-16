@@ -588,7 +588,7 @@ displayText: '🪀SEWABOT🪀',
            },
            {
              quickReplyButton: {
-               displayText: ' 💌YANG SUDSH MEMBANTU BOT💌',
+               displayText: ' 💌YANG SUDAH MEMBANTU BOT💌',
                id: '.tqto',
              }
            }]
